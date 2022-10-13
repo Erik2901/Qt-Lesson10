@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button_w.qml</file>
+        <file>res/button.png</file>
+    </qresource>
+</RCC>
